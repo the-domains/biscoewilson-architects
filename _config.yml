@@ -1,0 +1,14 @@
+layout_spectrum: 0.5893617
+color:
+  saturation: 0.4765958
+  brandStrength: 0.6255319
+  lightness: 0.4659574
+  brandColors:
+    - '#C6994B'
+    - '#C6C7C6'
+    - '#92A36E'
+    - '#5E5241'
+    - '#777680'
+  rhythmicContrast: 0.4148936
+typography_spectrum: 0.5680851
+name: 'biscoewilson|architects'
