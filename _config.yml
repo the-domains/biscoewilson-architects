@@ -1,3 +1,4 @@
+typography_spectrum: 0.5680851
 color:
   saturation: 0.4765958
   brandStrength: 0.6255319
@@ -9,6 +10,12 @@ color:
     - '#5E5241'
     - '#777680'
   lightness: 0.4659574
+layout_spectrum: 0.5893617
+author:
+  name: ROBERT BISCOE
+  email: robert@biscoewilson.com.au
+  url: www.biscoewilson.com.au
+name: biscoewilson|architects
 collections:
   - index:
       path: /
@@ -21,6 +28,3 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.5893617
-typography_spectrum: 0.5680851
-name: 'biscoewilson|architects'
