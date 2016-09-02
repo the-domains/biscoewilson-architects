@@ -16,6 +16,10 @@ author:
   email: robert@biscoewilson.com.au
   url: www.biscoewilson.com.au
 name: biscoewilson|architects
+navigation:
+  - name: About Biscoe Wilson Architects
+    url: www.biscoewilson.com.au
+    type: external
 collections:
   - index:
       path: /
